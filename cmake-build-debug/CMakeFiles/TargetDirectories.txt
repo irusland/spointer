@@ -1,0 +1,3 @@
+/Users/irusland/Desktop/UrFU/C++/spointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/irusland/Desktop/UrFU/C++/spointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/irusland/Desktop/UrFU/C++/spointer/cmake-build-debug/CMakeFiles/spointer.dir
